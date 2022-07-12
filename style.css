@@ -211,4 +211,107 @@ ul li a{
 .stat-1 p{
     font-size: 35px;
 }
+.package-section{
+    height: 900px;
+    background-image: url("images/bg5.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.pack-sec h1{
+    padding-top: 150px;
+    margin-bottom: 100px;
+    text-align: center;
+    font-size: 90px;
+    color: tomato;
+}
+.packages{
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+.pack-1{
+    width: 30%;
+    margin: 0 50px;
+    padding: 50px 10px;
+    background-color: white;
+    border-radius: 10px;
+}
+.pack-1 h3{
+    margin: 20px 0;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+.pack-1 img {
+    margin-bottom: 10px;
+}
+.pack-1 h4{
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+.pack-1 p{
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+.quote-section{
+    height: 900px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: linear-gradient(rgba(114, 41, 28, 0.493), rgba(90, 31, 22, 0.507)), url("images/bg6.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.quote{
+    width: 60%;
+    margin: 0 auto;
+    padding-top: 400px;
+    color: white;
+    text-align: center;
+}
+.quote-line{
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+.quote-writer{
+    font-size: 40px;
+}
+.update-section{
+    height: 900px;
+    background-image: url("images/bg5.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.update-sec{
+    width: 60%;
+    margin: 0 auto;
+    padding-top: 300px;
+    text-align: center;
+}
+.update-head{
+    font-size: 80px;
+    margin-bottom: 60px;
+}
+.update-details{
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+.update-email{
+    padding: 20px 200px;
+    padding-left: 100px;
+    border-radius: 30px 0 0 30px;
+    border: 0;
+    font-size: 20px;
+}
+.update-btn{
+    padding: 20px 50px;
+    margin-left: -20px;
+    background-color: tomato;
+    color: white;
+    border-radius: 0 30px 30px 0;
+    border: 0px;
+    font-size: 20px;
+}
+
+
+
 
